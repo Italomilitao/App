@@ -1,6 +1,6 @@
 import locale
 
-# Esse condigo não está pronto
+# Este condigo não está pronto
 
 # Definir a localidade como 'pt_BR' para o formato brasileiro (ou outra região, se desejado)
 locale.setlocale(locale.LC_ALL, 'pt_BR.UTF-8')
@@ -44,5 +44,3 @@ while acumulado <= valor_total_final:
     #print(acumulado)
     acumulado += (juros_por_mes * 100)
 print("*********************** Fim ***********************")
-
-# Esse condigo não está pronto
