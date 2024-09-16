@@ -1,6 +1,6 @@
 import locale
 
-# Este condigo não está pronto
+# Este código não está pronto
 
 # Definir a localidade como 'pt_BR' para o formato brasileiro (ou outra região, se desejado)
 locale.setlocale(locale.LC_ALL, 'pt_BR.UTF-8')
